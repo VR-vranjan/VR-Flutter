@@ -31,11 +31,18 @@ cd dart-all-basics
 dart filename.dart
 ```
 
-###for flutter code 
+# 🔹 Run Flutter App
 
-cd flutter_projects/project_name
+# Step 1: Navigate to the project directory
+cd flutter_projects/your_project_name
+
+# Step 2: Get dependencies
 flutter pub get
+
+# Step 3: Run the app on connected device/emulator
 flutter run
+
+
 
 
 
