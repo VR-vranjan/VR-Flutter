@@ -9,9 +9,6 @@ This repository is a collection of my notes, code snippets, practice exercises, 
 
 ---
 
-## 📁 Repository Structure
-
-
 ---
 
 ## 🛠️ Getting Started
